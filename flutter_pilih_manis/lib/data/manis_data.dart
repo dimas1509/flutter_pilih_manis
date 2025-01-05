@@ -6,8 +6,8 @@ var manisList = [
     location: 'Sumsel, Indonesia',
     description:
         'Kue putu adalah kue tradisional Indonesia yang terbuat dari tepung beras butiran kasar, dibalut parutan kelapa, dan diisi gula jawa.',
-    built: '1995',
-    type: 'Market',
+    built: '1200',
+    type: 'Makanan',
     imageAsset: 'images/floating_market.jpg',
     imageUrls: [
       'https://images.pexels.com/photos/417184/pexels-photo-417184.jpeg',
@@ -17,7 +17,7 @@ var manisList = [
     ],
   ),
     Manis(
-    name: 'Modern Art Museum',
+    name: 'Klepon',
     location: 'Jakarta, Indonesia',
     description:
         'The Modern Art Museum in Jakarta is a haven for art lovers, featuring a diverse range of contemporary art exhibits from local and international artists. The museum’s sleek architecture and thoughtfully curated galleries make it a cultural hotspot. Visitors can enjoy interactive exhibits, attend workshops, and explore an art store with unique souvenirs. It’s a perfect destination for anyone looking to immerse themselves in the vibrant art scene of Jakarta.',
@@ -32,8 +32,8 @@ var manisList = [
     ],
   ),
   Manis(
-    name: 'Grand Theater',
-    location: 'Semarang, Indonesia',
+    name: 'Donat',
+    location: 'Palembang, Indonesia',
     description:
         'The Grand Theater in Semarang is a prestigious venue that hosts world-class performances, including opera, ballet, and live concerts. Known for its elegant design and state-of-the-art facilities, the theater offers an immersive cultural experience for visitors. The venue also conducts workshops and art exhibitions, making it a cultural hub for the community. Its prime location and exceptional programming make it a must-visit for art enthusiasts.',
     built: '2008',
@@ -47,8 +47,8 @@ var manisList = [
     ],
   ),
   Manis(
-    name: 'Sunset Beach',
-    location: 'Bali, Indonesia',
+    name: 'Kue Mangkok',
+    location: 'Jambi, Indonesia',
     description:
         'Sunset Beach, located on the stunning island of Bali, is renowned for its breathtaking sunsets that paint the sky with hues of orange, pink, and purple. This serene beach is a favorite among tourists and locals alike, offering a peaceful retreat away from the bustling city life. Visitors can relax on the golden sands, enjoy local seafood delicacies, or take part in water activities like snorkeling and paddleboarding. The natural beauty and tranquil ambiance make it a must-visit destination.',
     built: 'Natural',
@@ -62,8 +62,8 @@ var manisList = [
     ],
   ),
   Manis(
-    name: 'Green Valley Resort',
-    location: 'Bandung, Indonesia',
+    name: 'kue pay',
+    location: 'palembang, Indonesia',
     description:
         'Nestled in the heart of Bandung, Green Valley Resort is a hidden gem surrounded by lush greenery and scenic landscapes. Perfect for a weekend getaway, this resort offers luxurious accommodations, a rejuvenating spa, and a variety of outdoor activities such as trekking and bird watching. The serene environment, coupled with modern amenities, provides a perfect blend of nature and comfort. Whether it’s a family vacation or a romantic escape, Green Valley Resort caters to all.',
     built: '2005',
